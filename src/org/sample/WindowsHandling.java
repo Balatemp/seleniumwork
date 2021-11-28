@@ -53,4 +53,7 @@ public class WindowsHandling {
 		//Switch to child2 windows
 		driver.switchTo().window(li.get(2));
 	}
+	private void sampleUpload() {
+
+	}
 }
